@@ -1,0 +1,36 @@
+*{
+    font-family: 'Fira Sans', sans-serif;
+font-family: 'Mukta', sans-serif;
+}
+div.prueba{
+    background-image: url("imagenes/galaxy-header.jpg");
+    text-align: center;
+}
+div.prueba2{
+    background-color: cornflowerblue;
+    text-align: center;
+    font-size: 25px;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+img.pruebaImg{
+    width: 300px;
+}
+h1{
+    background-color: blueviolet;
+    color: aliceblue;
+    text-align: center;
+}
+h2{
+    background-color: blueviolet;
+    color: aliceblue;
+    text-align: left;
+}
+ul{
+    font-size: 20px;
+}
+p.prueba3{
+    font-size: 50px;
+    text-align: justify;
+}
